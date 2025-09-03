@@ -1,0 +1,7 @@
+br\com\viasoft\dto\EmailRequestDTO.class
+br\com\viasoft\exception\GlobalExceptionHandler.class
+br\com\viasoft\DesafioBackendApplication.class
+br\com\viasoft\dto\EmailAwsDTO.class
+br\com\viasoft\service\EmailService.class
+br\com\viasoft\controller\EmailController.class
+br\com\viasoft\dto\EmailOciDTO.class
