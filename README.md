@@ -10,9 +10,13 @@ Projeto desenvolvido como solução do desafio Viasoft usando Spring Boot 3 + Ja
 - src/main/java/br/com/viasoft/  
 
     ├── controller/
+  
     ├── dto/
+  
     ├── exception/
+  
     ├── service/
+  
     └── DesafioBackendApplication.java
 - src/main/resources/
     ├── application.properties
