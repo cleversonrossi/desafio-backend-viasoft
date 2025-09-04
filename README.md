@@ -7,7 +7,8 @@ Projeto desenvolvido como solução do desafio Viasoft usando Spring Boot 3 + Ja
 - Maven 3.8+
 
 ### Arquitetura de cadadas
-- src/main/java/br/com/viasoft/
+- src/main/java/br/com/viasoft/  
+
     ├── controller/
     ├── dto/
     ├── exception/
