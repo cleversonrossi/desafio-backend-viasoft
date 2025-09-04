@@ -1,4 +1,4 @@
-# Desafio Back-end Viasoft
+# Desafio back-end Viasoft
 
 Projeto desenvolvido como solução do desafio Viasoft usando Spring Boot 3 + Java 17.
 
