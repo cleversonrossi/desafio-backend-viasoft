@@ -19,8 +19,10 @@ Projeto desenvolvido como solução do desafio Viasoft usando Spring Boot 3 + Ja
   
     └── DesafioBackendApplication.java
 - src/main/resources/
+  
     ├── application.properties
 - src/main/test/java/br/com/viasoft/controller/
+  
     ├── EmailControllerTest.java
 
 * controller: Contém as classes REST controllers.
@@ -56,6 +58,6 @@ mvn test
 Arquivo: `src/main/resources/application.properties`
 
 ```
-mail.integracao=AWS   # ou OCI
+mail.integracao=AWS ou OCI
 server.port=8080
 ```
